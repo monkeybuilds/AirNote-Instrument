@@ -41,4 +41,4 @@ Future Plans:
 ---
 
 ## 🧑‍💻 Built By
-[Monkey Builds](https://github.com/Monkeybuilds)
+[MonkeyBuilds](https://github.com/Monkeybuilds)
