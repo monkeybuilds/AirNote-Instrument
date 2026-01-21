@@ -1,6 +1,6 @@
 # 🎶 AirNote – Gesture Controlled Virtual Instrument
 
-**AirNote** is a DIY virtual instrument built with an Arduino Nano ESP32, flex sensors, and MPU6050. It allows you to control musical notes using hand gestures
+**AirNote** is a DIY virtual instrument built with an Arduino Nano ESP32, flex sensors, and MPU6050.
 <img width="386" height="511" alt="image" src="https://github.com/user-attachments/assets/8b27a109-0670-4271-8e9c-636784716b9a" />
 <img width="387" height="505" alt="image" src="https://github.com/user-attachments/assets/7111cf5a-92f2-43ae-9a0a-71bdae71cd32" />
 
